@@ -1,0 +1,25 @@
+.logotipo{
+    width: 70px;
+}
+
+.card-img-top{
+    border-radius: 70%;
+    width: 300px;
+}
+
+.login-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+.login-form button {
+    margin: 0 5px;
+    padding: 5px 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+
