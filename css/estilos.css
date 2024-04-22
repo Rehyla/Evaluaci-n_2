@@ -70,3 +70,25 @@
     max-width: 1200px; 
     margin: 0 auto; 
   }
+
+
+  .centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+.cardimagen {
+    width: 18rem;
+    border: none;
+    text-align: center;
+}
+.card-img-top {
+    border-radius: 50%;
+}
+
+.container {
+    margin-bottom: 10px; 
+}
+
+
