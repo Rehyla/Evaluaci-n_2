@@ -22,10 +22,51 @@
     margin: 0 auto;
 }
 
-.row {
-    width: 950px;
-}
 
 .col-7 {
     text-align: center;
 }
+
+
+  .product-card {
+    border: 1px solid #0a0a0a;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #ffff;
+}
+.product-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 100px;
+    max-width: 300px;
+}
+.quantity {
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: right;
+}
+.quantity-label {
+    display: inline-block;
+    width: 50px;
+    text-align: left;
+}
+
+.quantity-value {
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+    border: 1px solid #0f0f0f;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.price {
+    margin-top: 10px;
+}
+
+.container-main {
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
